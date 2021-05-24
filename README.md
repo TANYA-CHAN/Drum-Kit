@@ -1,4 +1,7 @@
 # Drum-Kit
+
+<h2>Live Link</h2>
+<a href="https://vigilant-rosalind-118e6a.netlify.app/">link</a>
 <h2>Snapshot of the project </h2>
 <br>
 
